@@ -1,0 +1,253 @@
+y,age,gender,income,smoking,friends
+Yes,22,Female,20-50L,Yes,2
+No,21,Male,20-50L,No,0
+Yes,20,Female,20-50L,No,3 or more
+Yes,19,Female,20-50L,No,2
+Yes,21,Female,20-50L,Yes,2
+Yes,20,Female,20-50L,Yes,3 or more
+Yes,22,Male,20-50L,Yes,0
+No,20,Male,less than 20L,No,2
+No,21,Male,20-50L,Yes,3 or more
+Yes,19,Male,20-50L,Yes,3 or more
+Yes,21,Male,20-50L,No,2
+Yes,21,Female,20-50L,Yes,2
+No,18,Female,less than 20L,No,0
+No,19,Female,less than 20L,No,0
+Yes,22,Male,20-50L,Yes,2
+No,20,Female,20-50L,No,1
+Yes,21,Male,20-50L,Yes,3 or more
+No,22,Female,20-50L,Yes,2
+No,20,Male,20-50L,No,1
+Yes,20,Female,20-50L,Yes,3 or more
+Yes,21,Male,more than 50L,Yes,3 or more
+Yes,20,Female,20-50L,Yes,2
+Yes,19,Male,20-50L,Yes,1
+Yes,21,Female,20-50L,Yes,3 or more
+Yes,21,Female,20-50L,No,2
+Yes,22,Male,more than 50L,Yes,3 or more
+No,19,Male,less than 20L,No,0
+No,20,Female,more than 50L,No,2
+Yes,20,Female,20-50L,Yes,3 or more
+Yes,21,Female,more than 50L,Yes,3 or more
+Yes,20,Male,20-50L,No,2
+Yes,22,Male,more than 50L,Yes,3 or more
+No,20,Female,20-50L,No,1
+Yes,20,Female,20-50L,No,3 or more
+No,19,Male,less than 20L,No,0
+Yes,20,Female,more than 50L,Yes,2
+No,20,Male,20-50L,Yes,1
+Yes,21,Male,more than 50L,Yes,1
+Yes,21,Female,20-50L,No,2
+No,18,Male,less than 20L,No,0
+No,18,Female,20-50L,No,0
+No,21,Male,more than 50L,Yes,2
+No,20,Female,less than 20L,No,1
+Yes,21,Male,20-50L,Yes,3 or more
+No,18,Male,less than 20L,No,0
+Yes,20,Male,20-50L,Yes,2
+No,18,Male,less than 20L,No,3 or more
+No,20,Female,20-50L,No,2
+Yes,21,Male,20-50L,No,3 or more
+Yes,21,Male,20-50L,Yes,3 or more
+Yes,20,Female,20-50L,No,3 or more
+Yes,21,Female,20-50L,Yes,2
+Yes,22,Male,more than 50L,Yes,3 or more
+Yes,20,Female,20-50L,Yes,3 or more
+No,19,Male,less than 20L,No,0
+No,21,Male,20-50L,No,2
+No,20,Female,20-50L,No,3 or more
+Yes,21,Female,more than 50L,Yes,2
+Yes,20,Female,20-50L,Yes,3 or more
+No,19,Female,less than 20L,No,0
+Yes,21,Female,20-50L,Yes,3 or more
+No,19,Male,less than 20L,No,0
+No,21,Male,20-50L,No,1
+No,21,Female,20-50L,No,1
+Yes,20,Male,20-50L,Yes,3 or more
+No,21,Male,20-50L,Yes,0
+Yes,21,Male,more than 50L,Yes,3 or more
+Yes,20,Female,20-50L,Yes,2
+Yes,20,Female,more than 50L,No,3 or more
+No,21,Male,20-50L,Yes,0
+Yes,22,Male,more than 50L,Yes,3 or more
+No,20,Male,less than 20L,No,0
+Yes,21,Male,20-50L,Yes,3 or more
+No,21,Female,20-50L,No,2
+Yes,20,Male,20-50L,Yes,1
+Yes,21,Female,20-50L,Yes,3 or more
+Yes,21,Male,more than 50L,Yes,3 or more
+No,20,Male,20-50L,No,3 or more
+No,20,Male,20-50L,No,2
+Yes,21,Male,less than 20L,Yes,1
+No,20,Female,20-50L,No,2
+No,20,Female,20-50L,Yes,3 or more
+Yes,21,Female,20-50L,Yes,2
+Yes,21,Female,less than 20L,Yes,0
+Yes,21,Female,more than 50L,Yes,3 or more
+No,20,Male,less than 20L,Yes,0
+No,21,Female,less than 20L,Yes,3 or more
+No,20,Female,20-50L,Yes,3 or more
+Yes,20,Male,20-50L,Yes,1
+Yes,20,Female,20-50L,Yes,2
+No,22,Female,20-50L,No,3 or more
+Yes,22,Male,20-50L,Yes,2
+Yes,22,Female,more than 50L,Yes,3 or more
+No,20,Female,20-50L,No,3 or more
+No,21,Female,less than 20L,No,0
+Yes,21,Female,more than 50L,Yes,2
+No,21,Male,20-50L,Yes,3 or more
+No,20,Female,20-50L,No,1
+Yes,19,Male,20-50L,Yes,2
+Yes,21,Male,more than 50L,Yes,2
+Yes,20,Male,20-50L,No,1
+No,21,Female,20-50L,No,3 or more
+Yes,20,Male,20-50L,Yes,2
+Yes,21,Male,20-50L,Yes,3 or more
+No,18,Male,less than 20L,No,0
+No,19,Female,20-50L,No,3 or more
+No,21,Male,less than 20L,Yes,0
+Yes,21,Female,20-50L,Yes,2
+No,21,Female,more than 50L,No,1
+Yes,20,Female,20-50L,Yes,2
+No,20,Male,20-50L,No,2
+No,21,Male,20-50L,Yes,2
+Yes,20,Female,more than 50L,Yes,3 or more
+No,20,Female,20-50L,No,0
+Yes,19,Male,20-50L,Yes,2
+No,18,Female,less than 20L,No,0
+Yes,21,Female,20-50L,Yes,3 or more
+Yes,21,Male,20-50L,Yes,3 or more
+No,21,Male,20-50L,No,3 or more
+No,21,Male,20-50L,Yes,2
+Yes,21,Female,less than 20L,Yes,0
+No,19,Female,20-50L,No,3 or more
+No,20,Female,more than 50L,Yes,3 or more
+Yes,20,Male,20-50L,No,3 or more
+Yes,20,Male,20-50L,No,3 or more
+Yes,20,Female,20-50L,Yes,2
+Yes,21,Female,20-50L,Yes,0
+Yes,21,Male,20-50L,Yes,2
+No,21,Male,less than 20L,No,0
+Yes,21,Male,20-50L,Yes,2
+No,19,Male,20-50L,No,1
+Yes,19,Female,20-50L,No,0
+Yes,21,Female,20-50L,Yes,3 or more
+Yes,19,Male,20-50L,Yes,0
+Yes,21,Male,more than 50L,Yes,0
+Yes,22,Male,20-50L,Yes,2
+Yes,19,Female,20-50L,Yes,1
+Yes,18,Male,less than 20L,Yes,0
+Yes,18,Female,20-50L,Yes,2
+Yes,20,Female,20-50L,Yes,2
+Yes,20,Male,20-50L,Yes,1
+Yes,20,Male,20-50L,Yes,2
+No,20,Male,more than 50L,Yes,2
+No,19,Male,less than 20L,No,0
+No,21,Female,20-50L,No,3 or more
+Yes,20,Female,20-50L,No,2
+Yes,21,Female,more than 50L,Yes,0
+No,18,Female,20-50L,No,0
+Yes,20,Male,20-50L,Yes,2
+Yes,21,Female,more than 50L,Yes,2
+Yes,22,Male,more than 50L,Yes,2
+Yes,20,Female,20-50L,Yes,3 or more
+Yes,21,Female,20-50L,Yes,3 or more
+No,20,Male,20-50L,No,2
+No,20,Female,20-50L,No,0
+Yes,20,Female,20-50L,No,0
+Yes,20,Male,more than 50L,Yes,2
+Yes,20,Male,20-50L,Yes,1
+Yes,21,Male,20-50L,Yes,3 or more
+No,21,Female,20-50L,No,3 or more
+Yes,21,Female,more than 50L,Yes,2
+No,20,Male,20-50L,No,2
+Yes,21,Male,20-50L,Yes,3 or more
+Yes,20,Female,20-50L,Yes,3 or more
+No,18,Male,20-50L,No,0
+Yes,21,Female,more than 50L,No,3 or more
+Yes,21,Female,20-50L,Yes,3 or more
+Yes,22,Male,20-50L,Yes,3 or more
+Yes,22,Male,20-50L,No,2
+Yes,21,Male,20-50L,Yes,3 or more
+Yes,21,Male,20-50L,No,1
+Yes,20,Female,20-50L,Yes,3 or more
+Yes,22,Female,more than 50L,Yes,2
+Yes,21,Female,20-50L,Yes,1
+Yes,21,Male,20-50L,No,0
+Yes,21,Male,20-50L,Yes,3 or more
+No,19,Male,20-50L,No,2
+Yes,19,Female,more than 50L,Yes,3 or more
+No,20,Female,20-50L,No,0
+No,22,Male,20-50L,No,1
+No,21,Female,less than 20L,Yes,0
+Yes,22,Male,more than 50L,Yes,3 or more
+Yes,21,Female,20-50L,Yes,3 or more
+No,22,Female,20-50L,Yes,3 or more
+Yes,21,Male,less than 20L,Yes,2
+Yes,22,Male,20-50L,No,3 or more
+Yes,22,Female,20-50L,No,2
+Yes,21,Female,less than 20L,Yes,1
+No,20,Male,less than 20L,No,0
+No,20,Male,20-50L,No,1
+Yes,21,Female,20-50L,Yes,3 or more
+Yes,20,Female,20-50L,No,2
+Yes,21,Male,20-50L,Yes,3 or more
+Yes,20,Female,20-50L,Yes,2
+Yes,22,Female,more than 50L,Yes,2
+No,20,Male,20-50L,No,0
+No,18,Male,20-50L,No,0
+Yes,19,Female,20-50L,No,1
+Yes,20,Male,20-50L,Yes,2
+Yes,19,Female,20-50L,Yes,3 or more
+Yes,18,Male,less than 20L,Yes,0
+Yes,19,Male,20-50L,Yes,0
+Yes,20,Female,20-50L,Yes,2
+No,22,Male,20-50L,Yes,0
+No,20,Female,20-50L,No,1
+No,20,Male,20-50L,No,0
+Yes,21,Male,20-50L,No,2
+No,20,Female,20-50L,No,2
+Yes,19,Female,20-50L,No,1
+Yes,22,Male,20-50L,Yes,2
+No,19,Male,20-50L,Yes,3 or more
+Yes,20,Female,more than 50L,Yes,3 or more
+No,21,Male,20-50L,No,2
+No,22,Female,20-50L,Yes,0
+Yes,21,Female,20-50L,Yes,2
+Yes,19,Male,20-50L,Yes,2
+Yes,18,Male,20-50L,Yes,0
+No,20,Female,20-50L,No,2
+No,22,Female,more than 50L,No,1
+Yes,19,Male,20-50L,Yes,3 or more
+No,22,Male,20-50L,Yes,2
+No,21,Female,20-50L,No,0
+Yes,22,Female,20-50L,No,1
+Yes,22,Male,20-50L,Yes,2
+Yes,21,Male,20-50L,No,1
+Yes,21,Female,20-50L,Yes,3 or more
+Yes,20,Male,more than 50L,Yes,3 or more
+No,19,Female,20-50L,No,2
+No,19,Male,20-50L,No,0
+Yes,18,Female,20-50L,No,2
+No,19,Female,20-50L,Yes,0
+Yes,20,Male,20-50L,Yes,2
+No,22,Male,less than 20L,Yes,2
+Yes,21,Male,more than 50L,No,3 or more
+No,21,Female,20-50L,No,2
+Yes,22,Female,20-50L,Yes,1
+Yes,20,Male,20-50L,Yes,1
+No,19,Male,less than 20L,No,0
+No,20,Female,more than 50L,No,3 or more
+Yes,19,Male,20-50L,No,0
+Yes,20,Female,20-50L,Yes,2
+Yes,22,Male,20-50L,Yes,1
+No,20,Male,20-50L,No,1
+Yes,22,Female,20-50L,Yes,2
+Yes,19,Female,less than 20L,No,0
+No,21,Female,less than 20L,No,1
+Yes,22,Male,20-50L,Yes,2
+Yes,21,Female,20-50L,No,0
+No,20,Female,less than 20L,No,0
+Yes,22,Female,20-50L,Yes,3 or more
+Yes,21,Male,20-50L,Yes,3 or more
+Yes,21,Female,20-50L,Yes,3 or more
