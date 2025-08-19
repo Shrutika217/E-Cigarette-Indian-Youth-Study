@@ -50,7 +50,7 @@ This repository contains my **undergraduate dissertation project** exploring the
 ---
 
 ## 🖼️ Project Presentation
-📑 [View Dissertation Slides (PDF)]([docs/ShrutikaGupta-DissertationPPT.pdf](https://github.com/Shrutika217/E-Cigarette-Indian-Youth-Study/blob/main/ShrutikaGupta-DissertationPPT.pdf))  
+📑 [View Dissertation Slides (PDF)](ShrutikaGupta-DissertationPPT.pdf)  
 
 ---
 
